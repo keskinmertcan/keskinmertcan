@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mertcan</h1>
 <h3 align="center">A passionate frontend & backend web developer from Turkey</h3>
 
-- 🔭 I’m currently working on [MetaManagemnt](https://github.com/keskinmertcan/metamanagement)
+- 🔭 I'm currently focusing on the Python
 
 - 👨‍💻 All of my projects are available at [https://github.com/keskinmertcan?tab=repositories](https://github.com/keskinmertcan?tab=repositories)
 
