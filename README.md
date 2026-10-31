@@ -30,7 +30,7 @@ Rather than focusing only on writing code, I like understanding **how the entire
 Give me an unfamiliar application, protocol or architecture and I'll usually start breaking it down, mapping its behavior and figuring out how all the pieces communicate.
 
 - 🧠 Strong interest in **software architecture and system design**
-- 🐍 Currently focusing heavily on **Python**
+- 🐍 Currently focusing heavily on **Python and Rust**
 - ⚙️ Building backend services with **FastAPI & Flask**
 - 🖥️ Developing desktop applications with **C# / .NET / WPF**
 - 📱 Working with **Android applications and device integrations**
@@ -76,7 +76,7 @@ I'm currently working on **Axis**, a modular business and Point of Sale ecosyste
 
 The ecosystem includes technologies and concepts such as:
 
-`Python` · `FastAPI` · `Flask` · `C#` · `.NET` · `WPF` · `Android` · `Next.js` · `MSSQL` · `REST APIs` · `Cloud Infrastructure` · `POS Integrations`
+`Rust` · `Python` · `FastAPI` · `Flask` · `C#` · `.NET` · `WPF` · `Android` · `Next.js` · `MSSQL` · `REST APIs` · `Cloud Infrastructure` · `POS Integrations`
 
 What interests me most about projects like this isn't a single framework.
 
@@ -89,7 +89,7 @@ It's making **the entire system work reliably as one product**.
 ### Backend & Software
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,nodejs,js" />
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,nodejs,js,rust" />
 </p>
 
 ### Frontend & Web
